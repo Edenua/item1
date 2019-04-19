@@ -1,4 +1,4 @@
-package com.wuancake.algorithm;
+﻿package com.wuancake.algorithm;
 
 import org.junit.Test;
 
@@ -7,6 +7,7 @@ import org.junit.Test;
 /**
  * Time：2019/4/16 0016 14:17
  * Description：<描述>
+ *12306
  */
 public class Algorithm {
     private static final double x=Math.sqrt(5);
